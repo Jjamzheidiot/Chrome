@@ -15,9 +15,14 @@ body {
 }
 
 .screenshot {
-  width: 71%;
+  width: 100%;
   margin: auto;
   margin-top: 3em;
+}
+@media (min-width: 600px) {
+  .screenshot {
+    width: 80%;
+  }
 }
 
 .call-to-action a {
@@ -73,7 +78,7 @@ header .logo a {
 }
 
 section {
-  padding: 2em;
+  padding: 2em 0 2em 0;
 }
 
 footer {
