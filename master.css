@@ -68,6 +68,7 @@ header h1 {
   padding: 1.5em 0 0 0;
 }
 header .logo a {
+  color: rgb(122,193,93);
   text-decoration: none;
 }
 
