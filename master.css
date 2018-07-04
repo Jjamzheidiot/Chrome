@@ -76,6 +76,9 @@ header .logo a {
   color: rgb(122,193,93);
   text-decoration: none;
 }
+header h2 {
+  margin: 2em 1em 0 1em;
+}
 
 section {
   padding: 2em 0 2em 0;
